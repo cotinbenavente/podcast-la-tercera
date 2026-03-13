@@ -4,14 +4,14 @@
     <title>La Tercera - Podcast Diario</title>
     <description>Resumen diario de noticias de La Tercera, generado automáticamente.</description>
     <language>es-cl</language>
-    <link>https://example.com</link>
+    <link>https://cotinbenavente.github.io/podcast-la-tercera</link>
     <itunes:author>Podcast La Tercera (Automatizado)</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>La Tercera - 13 de marzo 2026</title>
-      <description>Resumen de noticias de La Tercera: Mundo, Nacional, Política, Pulso. 6 artículos cubiertos.</description>
-      <enclosure url="https://example.com/output/podcast-la-tercera-2026-03-13.mp3" type="audio/mpeg" length="4426505" />
+      <description>Resumen de noticias: Política, Nacional, Mundo y Pulso.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-la-tercera/podcast-la-tercera-2026-03-13.mp3" type="audio/mpeg" length="3775625" />
       <guid isPermaLink="false">lt-podcast-2026-03-13</guid>
       <pubDate>Fri, 13 Mar 2026 07:00:00 +0000</pubDate>
       <itunes:author>Podcast La Tercera (Automatizado)</itunes:author>
